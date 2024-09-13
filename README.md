@@ -1,4 +1,4 @@
-Natanael Sebastian Simanjuntak
+Natanael Sebastian Simanjuntak \n
 Kelompok Nyquist
 
 Program ini merupakan kalkulator sederhana dengan operasi pertambahan, pengurangan, perkalian, pembagian, akar, dan trigonometri
